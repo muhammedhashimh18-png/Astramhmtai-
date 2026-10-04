@@ -1,0 +1,6 @@
+{
+  "name": "ASTRAM HMT",
+  "description": "Futuristic AI Studio featuring 16 cosmic AI intelligence modules, live voice orb, auto-generators, and deep intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
